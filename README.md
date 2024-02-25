@@ -11,7 +11,6 @@
 > Useful link: [HCI Conferences Deadline ⏳](https://hci-deadlines.github.io/?sub=HCI,DES,CSCW,AI,HRI,XR,HAP,VIS)
 
 * [ACM CHI](https://dl.acm.org/conference/chi/proceedings): The largest and most influential international conference in the HCI field.
-
 * [ACM UIST](https://dl.acm.org/conference/uist/proceedings): Focuses on the forefront of user interface technology.
 * [ACM IUI](https://dl.acm.org/conference/iui/proceedings): Dedicated to advancing research in the areas of AI-powered user interface. 
 * [ACM HRI](https://dl.acm.org/conference/hri/proceedings): Dedicated to human-robot interaction. 
