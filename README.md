@@ -6,13 +6,13 @@
 
 ## Special Compilation: Large Language Model (LLM)
 
-**Suggested Texts and Readings: **
+**Suggested Texts and Readings:**
 
 1. [Shneiderman, B. (2022). *Human-centered AI*. Oxford University Press](https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=cdi_askewsholts_vlebooks_9780192659996&context=PC&vid=01UTORONTO_INST:UTORONTO&lang=en&search_scope=UTL_AND_CI&adaptor=Primo Central&tab=Everything&query=any,contains,9780192845290&offset=0)
 2. [Principles of mixed-initiative user interfaces](https://dl.acm.org/doi/10.1145/302979.303030)
 3. [Guidelines for Human-AI Interaction](https://dl.acm.org/doi/10.1145/3290605.3300233)
 
-**Suggested Conferences: **
+**Suggested Conferences:**
 
 1. [ACM Conference on Intelligent User Interfaces (ACM IUI)](https://iui.acm.org/2024/)
 2. [ACM/IEEE International Conference on Human Robot Interaction (HRI)](https://humanrobotinteraction.org/2024/)
